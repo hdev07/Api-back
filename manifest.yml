@@ -1,3 +1,4 @@
-aplications:
-- name: api_568
+applications:
+- buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  name: api_568
   memory: 56M
