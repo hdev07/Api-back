@@ -1,0 +1,3 @@
+aplications:
+  - name: api
+    memory: 56M
